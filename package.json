@@ -1,0 +1,10 @@
+{
+  "name": "openrouter-chatbot",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "openai": "^4.0.0"
+  }
+}
